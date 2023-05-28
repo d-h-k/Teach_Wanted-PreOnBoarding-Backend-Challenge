@@ -1,6 +1,7 @@
 # 한거
 
-- 사전과제제출 :
+- 사전과제제출 : 상대경로 : ./00_precourse.md
+  - 웹링크https://github.com/d-h-k/Teach_Wanted-PreOnBoarding-Backend-Challenge/blob/main/00_precourse.md
 
 
 <br><br><br>
