@@ -1,3 +1,14 @@
+# 한거
+
+- 사전과제제출 :
+
+
+<br><br><br>
+
+---------
+
+<br><br><br>
+
 # 원티드 프리온보딩 백엔드 챌린지 6월
 원티드 플랫폼에서 진행되는 2023년 06월 교육 과정입니다.  
 [Java 꽉 잡아! : JVM부터 GC, 스레드 동기화까지!](https://www.wanted.co.kr/events/pre_challenge_be_8)
